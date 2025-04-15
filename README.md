@@ -28,3 +28,17 @@ Before running the project, ensure you have the following software installed on 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/IdentityDAO.git
+2. Navigate to the project directory:
+   ```bash
+   cd IdentityDAO
+npm install
+npm run start
+
+
+
+
+
+
+
+
+   
